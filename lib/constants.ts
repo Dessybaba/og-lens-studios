@@ -27,7 +27,7 @@ export const CONTACT_CHANNELS: ContactChannel[] = [
   {
     label: "WhatsApp",
     value: "Message us on WhatsApp",
-    href: "https://wa.me/2349033097075",
+    href: "https://wa.me/2349033097065",
     icon: "whatsapp",
   },
   {
