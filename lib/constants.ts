@@ -20,26 +20,26 @@ export const NAV_LINKS: NavLink[] = [
 export const CONTACT_CHANNELS: ContactChannel[] = [
   {
     label: "Phone",
-    value: "+234 800 000 0000",
-    href: "tel:+2348000000000",
+    value: "0903 309 7075",
+    href: "tel:+2349033097075",
     icon: "phone",
   },
   {
     label: "WhatsApp",
     value: "Message us on WhatsApp",
-    href: "https://wa.me/2348000000000",
+    href: "https://wa.me/2349033097075",
     icon: "whatsapp",
   },
   {
     label: "Instagram",
-    value: "@oglensstudios",
-    href: "https://instagram.com/oglensstudios",
+    value: "@iamoluwafemi0",
+    href: "https://instagram.com/iamoluwafemi0",
     icon: "instagram",
   },
   {
     label: "Email",
-    value: "hello@oglensstudios.com",
-    href: "mailto:hello@oglensstudios.com",
+    value: "gbengaoluwafemi001@gmail.com",
+    href: "mailto:gbengaoluwafemi001@gmail.com",
     icon: "email",
   },
   {
