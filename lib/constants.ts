@@ -20,8 +20,8 @@ export const NAV_LINKS: NavLink[] = [
 export const CONTACT_CHANNELS: ContactChannel[] = [
   {
     label: "Phone",
-    value: "0903 309 7075",
-    href: "tel:+2349033097075",
+    value: "09033097065",
+    href: "tel:+2349033097065",
     icon: "phone",
   },
   {
